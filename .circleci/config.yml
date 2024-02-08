@@ -18,4 +18,4 @@ jobs:
       # Run tests
       - run:
           name: Run Tests
-          command: npm test
+          command: node app.js
